@@ -15,8 +15,7 @@ It is a very simple programe for beginner for understand purpose that how we can
 5. I use splice keyword in delete method because I need to delete specific postion and splice onl the way to delete value by index.
 
 ## Requirement
-
-####Postman Software
+#### Postman Software
 you need to install Postmand in your system.
 
         sudo snap install postman
